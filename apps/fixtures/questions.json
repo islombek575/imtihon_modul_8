@@ -1,0 +1,2202 @@
+[
+  {
+    "model": "apps.question",
+    "pk": 1,
+    "fields": {
+      "title": "Python dasturlash tili kim tomonidan yaratilgan?",
+      "true_answer": 2
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 1,
+    "fields": {
+      "question": 1,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 2,
+    "fields": {
+      "question": 1,
+      "option": "B",
+      "text": "Guido van Rossum"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 3,
+    "fields": {
+      "question": 1,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 4,
+    "fields": {
+      "question": 1,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 2,
+    "fields": {
+      "title": "O'zbekiston poytaxti qaysi shahar?",
+      "true_answer": 6
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 5,
+    "fields": {
+      "question": 2,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 6,
+    "fields": {
+      "question": 2,
+      "option": "B",
+      "text": "Toshkent"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 7,
+    "fields": {
+      "question": 2,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 8,
+    "fields": {
+      "question": 2,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 3,
+    "fields": {
+      "title": "HTML tili nima uchun ishlatiladi?",
+      "true_answer": 10
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 9,
+    "fields": {
+      "question": 3,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 10,
+    "fields": {
+      "question": 3,
+      "option": "B",
+      "text": "Veb sahifa tuzish"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 11,
+    "fields": {
+      "question": 3,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 12,
+    "fields": {
+      "question": 3,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 4,
+    "fields": {
+      "title": "Yer Quyosh atrofida necha kunda aylanib chiqadi?",
+      "true_answer": 14
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 13,
+    "fields": {
+      "question": 4,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 14,
+    "fields": {
+      "question": 4,
+      "option": "B",
+      "text": "365 kun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 15,
+    "fields": {
+      "question": 4,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 16,
+    "fields": {
+      "question": 4,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 5,
+    "fields": {
+      "title": "Kompyuterning asosiy xotirasi qaysi?",
+      "true_answer": 18
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 17,
+    "fields": {
+      "question": 5,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 18,
+    "fields": {
+      "question": 5,
+      "option": "B",
+      "text": "RAM"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 19,
+    "fields": {
+      "question": 5,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 20,
+    "fields": {
+      "question": 5,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 6,
+    "fields": {
+      "title": "O'zbekiston mustaqillikka qachon erishgan?",
+      "true_answer": 22
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 21,
+    "fields": {
+      "question": 6,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 22,
+    "fields": {
+      "question": 6,
+      "option": "B",
+      "text": "1991-yil"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 23,
+    "fields": {
+      "question": 6,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 24,
+    "fields": {
+      "question": 6,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 7,
+    "fields": {
+      "title": "Dunyoning eng uzun daryosi qaysi?",
+      "true_answer": 26
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 25,
+    "fields": {
+      "question": 7,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 26,
+    "fields": {
+      "question": 7,
+      "option": "B",
+      "text": "Nil"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 27,
+    "fields": {
+      "question": 7,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 28,
+    "fields": {
+      "question": 7,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 8,
+    "fields": {
+      "title": "Java dasturlash tilida 'int' tipi nima uchun ishlatiladi?",
+      "true_answer": 30
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 29,
+    "fields": {
+      "question": 8,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 30,
+    "fields": {
+      "question": 8,
+      "option": "B",
+      "text": "Butun son saqlash"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 31,
+    "fields": {
+      "question": 8,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 32,
+    "fields": {
+      "question": 8,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 9,
+    "fields": {
+      "title": "Inson yuragi necha kameradan iborat?",
+      "true_answer": 34
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 33,
+    "fields": {
+      "question": 9,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 34,
+    "fields": {
+      "question": 9,
+      "option": "B",
+      "text": "4 ta"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 35,
+    "fields": {
+      "question": 9,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 36,
+    "fields": {
+      "question": 9,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 10,
+    "fields": {
+      "title": "CSS tili asosan nima uchun ishlatiladi?",
+      "true_answer": 38
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 37,
+    "fields": {
+      "question": 10,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 38,
+    "fields": {
+      "question": 10,
+      "option": "B",
+      "text": "Veb sahifa dizayni uchun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 39,
+    "fields": {
+      "question": 10,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 40,
+    "fields": {
+      "question": 10,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 11,
+    "fields": {
+      "title": "Eng katta okean qaysi?",
+      "true_answer": 42
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 41,
+    "fields": {
+      "question": 11,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 42,
+    "fields": {
+      "question": 11,
+      "option": "B",
+      "text": "Tinch okeani"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 43,
+    "fields": {
+      "question": 11,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 44,
+    "fields": {
+      "question": 11,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 12,
+    "fields": {
+      "title": "O'zbekistonda nechta viloyat bor?",
+      "true_answer": 46
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 45,
+    "fields": {
+      "question": 12,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 46,
+    "fields": {
+      "question": 12,
+      "option": "B",
+      "text": "14"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 47,
+    "fields": {
+      "question": 12,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 48,
+    "fields": {
+      "question": 12,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 13,
+    "fields": {
+      "title": "Git nima uchun ishlatiladi?",
+      "true_answer": 50
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 49,
+    "fields": {
+      "question": 13,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 50,
+    "fields": {
+      "question": 13,
+      "option": "B",
+      "text": "Versiyalarni boshqarish uchun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 51,
+    "fields": {
+      "question": 13,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 52,
+    "fields": {
+      "question": 13,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 14,
+    "fields": {
+      "title": "Kompyuterda fayl kengaytmasi nimani bildiradi?",
+      "true_answer": 54
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 53,
+    "fields": {
+      "question": 14,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 54,
+    "fields": {
+      "question": 14,
+      "option": "B",
+      "text": "Fayl turini"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 55,
+    "fields": {
+      "question": 14,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 56,
+    "fields": {
+      "question": 14,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 15,
+    "fields": {
+      "title": "JavaScript tili asosan qayerda ishlatiladi?",
+      "true_answer": 58
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 57,
+    "fields": {
+      "question": 15,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 58,
+    "fields": {
+      "question": 15,
+      "option": "B",
+      "text": "Veb sahifa interaktivligi uchun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 59,
+    "fields": {
+      "question": 15,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 60,
+    "fields": {
+      "question": 15,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 16,
+    "fields": {
+      "title": "Eng katta qit’a qaysi?",
+      "true_answer": 62
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 61,
+    "fields": {
+      "question": 16,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 62,
+    "fields": {
+      "question": 16,
+      "option": "B",
+      "text": "Osiyo"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 63,
+    "fields": {
+      "question": 16,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 64,
+    "fields": {
+      "question": 16,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 17,
+    "fields": {
+      "title": "O'zbekistonning birinchi prezidenti kim bo'lgan?",
+      "true_answer": 66
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 65,
+    "fields": {
+      "question": 17,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 66,
+    "fields": {
+      "question": 17,
+      "option": "B",
+      "text": "Islom Karimov"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 67,
+    "fields": {
+      "question": 17,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 68,
+    "fields": {
+      "question": 17,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 18,
+    "fields": {
+      "title": "Eng kichik tub son qaysi?",
+      "true_answer": 70
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 69,
+    "fields": {
+      "question": 18,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 70,
+    "fields": {
+      "question": 18,
+      "option": "B",
+      "text": "2"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 71,
+    "fields": {
+      "question": 18,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 72,
+    "fields": {
+      "question": 18,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 19,
+    "fields": {
+      "title": "DNS nima uchun kerak?",
+      "true_answer": 74
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 73,
+    "fields": {
+      "question": 19,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 74,
+    "fields": {
+      "question": 19,
+      "option": "B",
+      "text": "Domen nomlarini IP manzillarga bog‘lash uchun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 75,
+    "fields": {
+      "question": 19,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 76,
+    "fields": {
+      "question": 19,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 20,
+    "fields": {
+      "title": "IP manzil nimani anglatadi?",
+      "true_answer": 78
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 77,
+    "fields": {
+      "question": 20,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 78,
+    "fields": {
+      "question": 20,
+      "option": "B",
+      "text": "Tarmoqdagi qurilma manzili"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 79,
+    "fields": {
+      "question": 20,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 80,
+    "fields": {
+      "question": 20,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 21,
+    "fields": {
+      "title": "RAM qisqartmasi nimani anglatadi?",
+      "true_answer": 82
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 81,
+    "fields": {
+      "question": 21,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 82,
+    "fields": {
+      "question": 21,
+      "option": "B",
+      "text": "Tasodifiy murojaatli xotira"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 83,
+    "fields": {
+      "question": 21,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 84,
+    "fields": {
+      "question": 21,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 22,
+    "fields": {
+      "title": "WWW qisqartmasi nimani bildiradi?",
+      "true_answer": 86
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 85,
+    "fields": {
+      "question": 22,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 86,
+    "fields": {
+      "question": 22,
+      "option": "B",
+      "text": "World Wide Web"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 87,
+    "fields": {
+      "question": 22,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 88,
+    "fields": {
+      "question": 22,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 23,
+    "fields": {
+      "title": "Inson tanasida nechta suyak bor?",
+      "true_answer": 90
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 89,
+    "fields": {
+      "question": 23,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 90,
+    "fields": {
+      "question": 23,
+      "option": "B",
+      "text": "206 ta"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 91,
+    "fields": {
+      "question": 23,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 92,
+    "fields": {
+      "question": 23,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 24,
+    "fields": {
+      "title": "Linux nima?",
+      "true_answer": 94
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 93,
+    "fields": {
+      "question": 24,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 94,
+    "fields": {
+      "question": 24,
+      "option": "B",
+      "text": "Operatsion tizim"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 95,
+    "fields": {
+      "question": 24,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 96,
+    "fields": {
+      "question": 24,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 25,
+    "fields": {
+      "title": "Algoritm nima?",
+      "true_answer": 98
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 97,
+    "fields": {
+      "question": 25,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 98,
+    "fields": {
+      "question": 25,
+      "option": "B",
+      "text": "Muammoni yechish uchun bosqichma-bosqich yo‘riqnoma"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 99,
+    "fields": {
+      "question": 25,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 100,
+    "fields": {
+      "question": 25,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 26,
+    "fields": {
+      "title": "Eng baland tog‘ qaysi?",
+      "true_answer": 102
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 101,
+    "fields": {
+      "question": 26,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 102,
+    "fields": {
+      "question": 26,
+      "option": "B",
+      "text": "Everest"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 103,
+    "fields": {
+      "question": 26,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 104,
+    "fields": {
+      "question": 26,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 27,
+    "fields": {
+      "title": "O‘zbekiston tili qaysi?",
+      "true_answer": 106
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 105,
+    "fields": {
+      "question": 27,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 106,
+    "fields": {
+      "question": 27,
+      "option": "B",
+      "text": "O‘zbek tili"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 107,
+    "fields": {
+      "question": 27,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 108,
+    "fields": {
+      "question": 27,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 28,
+    "fields": {
+      "title": "Eng katta sayyora qaysi?",
+      "true_answer": 110
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 109,
+    "fields": {
+      "question": 28,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 110,
+    "fields": {
+      "question": 28,
+      "option": "B",
+      "text": "Yupiter"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 111,
+    "fields": {
+      "question": 28,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 112,
+    "fields": {
+      "question": 28,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 29,
+    "fields": {
+      "title": "Matematikada π (pi) soni taxminan nechaga teng?",
+      "true_answer": 114
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 113,
+    "fields": {
+      "question": 29,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 114,
+    "fields": {
+      "question": 29,
+      "option": "B",
+      "text": "3.14"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 115,
+    "fields": {
+      "question": 29,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 116,
+    "fields": {
+      "question": 29,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 30,
+    "fields": {
+      "title": "Frontend dasturchi nima qiladi?",
+      "true_answer": 118
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 117,
+    "fields": {
+      "question": 30,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 118,
+    "fields": {
+      "question": 30,
+      "option": "B",
+      "text": "Veb sahifalarning ko‘rinishini ishlab chiqadi"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 119,
+    "fields": {
+      "question": 30,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 120,
+    "fields": {
+      "question": 30,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 31,
+    "fields": {
+      "title": "Backend dasturchi nima qiladi?",
+      "true_answer": 122
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 121,
+    "fields": {
+      "question": 31,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 122,
+    "fields": {
+      "question": 31,
+      "option": "B",
+      "text": "Server tarafdagi ishlarni bajaradi"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 123,
+    "fields": {
+      "question": 31,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 124,
+    "fields": {
+      "question": 31,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 32,
+    "fields": {
+      "title": "Django qaysi tilda yozilgan?",
+      "true_answer": 126
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 125,
+    "fields": {
+      "question": 32,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 126,
+    "fields": {
+      "question": 32,
+      "option": "B",
+      "text": "Python"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 127,
+    "fields": {
+      "question": 32,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 128,
+    "fields": {
+      "question": 32,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 33,
+    "fields": {
+      "title": "HTTP nima?",
+      "true_answer": 130
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 129,
+    "fields": {
+      "question": 33,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 130,
+    "fields": {
+      "question": 33,
+      "option": "B",
+      "text": "Veb orqali ma’lumot almashish protokoli"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 131,
+    "fields": {
+      "question": 33,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 132,
+    "fields": {
+      "question": 33,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 34,
+    "fields": {
+      "title": "O‘zbekistonning milliy valyutasi nima?",
+      "true_answer": 134
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 133,
+    "fields": {
+      "question": 34,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 134,
+    "fields": {
+      "question": 34,
+      "option": "B",
+      "text": "So‘m"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 135,
+    "fields": {
+      "question": 34,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 136,
+    "fields": {
+      "question": 34,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 35,
+    "fields": {
+      "title": "GitHub nima?",
+      "true_answer": 138
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 137,
+    "fields": {
+      "question": 35,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 138,
+    "fields": {
+      "question": 35,
+      "option": "B",
+      "text": "Kodlarni saqlash va ulashish platformasi"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 139,
+    "fields": {
+      "question": 35,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 140,
+    "fields": {
+      "question": 35,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 36,
+    "fields": {
+      "title": "IPV4 necha bitdan iborat?",
+      "true_answer": 142
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 141,
+    "fields": {
+      "question": 36,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 142,
+    "fields": {
+      "question": 36,
+      "option": "B",
+      "text": "32 bit"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 143,
+    "fields": {
+      "question": 36,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 144,
+    "fields": {
+      "question": 36,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 37,
+    "fields": {
+      "title": "Eng sovuq materik qaysi?",
+      "true_answer": 146
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 145,
+    "fields": {
+      "question": 37,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 146,
+    "fields": {
+      "question": 37,
+      "option": "B",
+      "text": "Antarktida"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 147,
+    "fields": {
+      "question": 37,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 148,
+    "fields": {
+      "question": 37,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 38,
+    "fields": {
+      "title": "Python’da list nima?",
+      "true_answer": 150
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 149,
+    "fields": {
+      "question": 38,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 150,
+    "fields": {
+      "question": 38,
+      "option": "B",
+      "text": "Elementlar to‘plami"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 151,
+    "fields": {
+      "question": 38,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 152,
+    "fields": {
+      "question": 38,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 39,
+    "fields": {
+      "title": "O‘zbekiston bayrog‘ida nechta yulduz bor?",
+      "true_answer": 154
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 153,
+    "fields": {
+      "question": 39,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 154,
+    "fields": {
+      "question": 39,
+      "option": "B",
+      "text": "12"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 155,
+    "fields": {
+      "question": 39,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 156,
+    "fields": {
+      "question": 39,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 40,
+    "fields": {
+      "title": "AI qisqartmasi nimani anglatadi?",
+      "true_answer": 158
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 157,
+    "fields": {
+      "question": 40,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 158,
+    "fields": {
+      "question": 40,
+      "option": "B",
+      "text": "Sun’iy intellekt"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 159,
+    "fields": {
+      "question": 40,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 160,
+    "fields": {
+      "question": 40,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 41,
+    "fields": {
+      "title": "O‘zbekistonning poytaxti qayer?",
+      "true_answer": 162
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 161,
+    "fields": {
+      "question": 41,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 162,
+    "fields": {
+      "question": 41,
+      "option": "B",
+      "text": "Toshkent"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 163,
+    "fields": {
+      "question": 41,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 164,
+    "fields": {
+      "question": 41,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 42,
+    "fields": {
+      "title": "Frontend texnologiyalariga misol keltir.",
+      "true_answer": 166
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 165,
+    "fields": {
+      "question": 42,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 166,
+    "fields": {
+      "question": 42,
+      "option": "B",
+      "text": "HTML, CSS, JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 167,
+    "fields": {
+      "question": 42,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 168,
+    "fields": {
+      "question": 42,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 43,
+    "fields": {
+      "title": "O‘zbekistonning eng katta viloyati qaysi?",
+      "true_answer": 170
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 169,
+    "fields": {
+      "question": 43,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 170,
+    "fields": {
+      "question": 43,
+      "option": "B",
+      "text": "Qashqadaryo"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 171,
+    "fields": {
+      "question": 43,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 172,
+    "fields": {
+      "question": 43,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 44,
+    "fields": {
+      "title": "Eng uzun inson tanasidagi suyak qaysi?",
+      "true_answer": 174
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 173,
+    "fields": {
+      "question": 44,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 174,
+    "fields": {
+      "question": 44,
+      "option": "B",
+      "text": "Son suyagi"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 175,
+    "fields": {
+      "question": 44,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 176,
+    "fields": {
+      "question": 44,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 45,
+    "fields": {
+      "title": "Python’da for sikli nima uchun ishlatiladi?",
+      "true_answer": 178
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 177,
+    "fields": {
+      "question": 45,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 178,
+    "fields": {
+      "question": 45,
+      "option": "B",
+      "text": "Takroriy amallarni bajarish uchun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 179,
+    "fields": {
+      "question": 45,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 180,
+    "fields": {
+      "question": 45,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 46,
+    "fields": {
+      "title": "API nima?",
+      "true_answer": 182
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 181,
+    "fields": {
+      "question": 46,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 182,
+    "fields": {
+      "question": 46,
+      "option": "B",
+      "text": "Dasturlar o‘rtasida ma’lumot almashish interfeysi"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 183,
+    "fields": {
+      "question": 46,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 184,
+    "fields": {
+      "question": 46,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 47,
+    "fields": {
+      "title": "SQL nima uchun ishlatiladi?",
+      "true_answer": 186
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 185,
+    "fields": {
+      "question": 47,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 186,
+    "fields": {
+      "question": 47,
+      "option": "B",
+      "text": "Ma’lumotlar bazasini boshqarish uchun"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 187,
+    "fields": {
+      "question": 47,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 188,
+    "fields": {
+      "question": 47,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 48,
+    "fields": {
+      "title": "Eng mashhur mobil operatsion tizimlar?",
+      "true_answer": 190
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 189,
+    "fields": {
+      "question": 48,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 190,
+    "fields": {
+      "question": 48,
+      "option": "B",
+      "text": "Android va iOS"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 191,
+    "fields": {
+      "question": 48,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 192,
+    "fields": {
+      "question": 48,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 49,
+    "fields": {
+      "title": "JSON formati nimani anglatadi?",
+      "true_answer": 194
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 193,
+    "fields": {
+      "question": 49,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 194,
+    "fields": {
+      "question": 49,
+      "option": "B",
+      "text": "Ma’lumot almashish formati"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 195,
+    "fields": {
+      "question": 49,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 196,
+    "fields": {
+      "question": 49,
+      "option": "D",
+      "text": "C++"
+    }
+  },
+  {
+    "model": "apps.question",
+    "pk": 50,
+    "fields": {
+      "title": "O‘zbekistonning davlat madhiyasi muallifi kim?",
+      "true_answer": 198
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 197,
+    "fields": {
+      "question": 50,
+      "option": "A",
+      "text": "JavaScript"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 198,
+    "fields": {
+      "question": 50,
+      "option": "B",
+      "text": "Abdulla Oripov"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 199,
+    "fields": {
+      "question": 50,
+      "option": "C",
+      "text": "HTML"
+    }
+  },
+  {
+    "model": "apps.answer",
+    "pk": 200,
+    "fields": {
+      "question": 50,
+      "option": "D",
+      "text": "C++"
+    }
+  }
+]
